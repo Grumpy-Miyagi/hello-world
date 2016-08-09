@@ -1,2 +1,3 @@
 # hello-world
-A repository created while learning the basics of GitHub
+I'm an aspiring web dev student over at Free Code Camp.
+I read high fantasy and Tom Clancy in my spare time.
